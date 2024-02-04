@@ -1,0 +1,18 @@
+{
+  "name": "calculator-typescript",
+  "version": "1.0.0",
+  "description": "A Typescript calculator library.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json --outDir dist",
+    "test": "echo \"Test not implemented yet.\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/calculator-typescript.git"
+  }
+}
